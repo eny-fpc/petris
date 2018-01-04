@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="14">
+      <Unit0>
+        <Filename Value="Petris.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="56"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ufrmmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ufrmMain"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos Y="18"/>
+        <UsageCount Value="56"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\src.tetris.engine\petrisengine.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="PetrisEngine"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="28" Y="16"/>
+        <UsageCount Value="56"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\docs\TETRIS.PAS"/>
+        <UnitName Value="tetris"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="110"/>
+        <CursorPos X="63" Y="7"/>
+        <UsageCount Value="24"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\Toolbox\Lazarus.1.8.0\fpc\3.0.4\source\rtl\objpas\fgl.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\Toolbox\Lazarus.1.8.0\fpc\3.0.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="4" Y="27"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\Toolbox\Lazarus.1.8.0\fpc\3.0.4\source\rtl\objpas\types.pp"/>
+        <UnitName Value="Types"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="56"/>
+        <CursorPos X="3" Y="79"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\Toolbox\Lazarus.1.8.0\fpc\3.0.4\source\rtl\inc\typshrdh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="3" Y="62"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\Users\Eddy Nijland\Documents\Snelkoppelingen\httpswww.google.nlgws_rd=ssl.URL"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="41" Y="6"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\Toolbox\Lazarus.1.8.0\lcl\lcltype.pp"/>
+        <UnitName Value="LCLType"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="385"/>
+        <CursorPos X="3" Y="426"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\Toolbox\Lazarus.1.8.0\fpc\3.0.4\source\packages\graph\src\inc\graphh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="743"/>
+        <CursorPos X="12" Y="766"/>
+        <UsageCount Value="9"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\Toolbox\Lazarus.1.8.0\fpc\3.0.4\source\packages\graph\src\inc\graph.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1758"/>
+        <CursorPos X="6" Y="1766"/>
+        <UsageCount Value="9"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\src.petris.engine\petrisengine.pas"/>
+        <UnitName Value="PetrisEngine"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="28" Y="3"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\Toolbox\Lazarus.1.8.0\fpc\3.0.4\source\rtl\win64\classes.pp"/>
+        <UnitName Value="Classes"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+    </Units>
+    <JumpHistory Count="22" HistoryIndex="21">
+      <Position1>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="165" Column="51" TopLine="159"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ufrmmain.pas"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="28" Column="12"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="166" Column="31" TopLine="152"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="86" TopLine="61"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="255" TopLine="209"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="256" TopLine="210"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ufrmmain.pas"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="113" Column="16" TopLine="70"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="106" Column="43" TopLine="90"/>
+      </Position10>
+      <Position11>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="113" Column="43" TopLine="92"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="103" TopLine="95"/>
+      </Position12>
+      <Position13>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="102" TopLine="94"/>
+      </Position13>
+      <Position14>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="115" Column="33" TopLine="94"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ufrmmain.pas"/>
+      </Position15>
+      <Position16>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="193" Column="67" TopLine="182"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="82" Column="40" TopLine="55"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="248" Column="55" TopLine="221"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="248" Column="55" TopLine="221"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="21"/>
+      </Position20>
+      <Position21>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="2" Column="26"/>
+      </Position21>
+      <Position22>
+        <Filename Value="ufrmmain.pas"/>
+        <Caret Line="18"/>
+      </Position22>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="4">
+      <Item1>
+        <Expression Value="pTYpe"/>
+      </Item1>
+      <Item2>
+        <Expression Value="i"/>
+      </Item2>
+      <Item3>
+        <Expression Value="FPetriminoCount"/>
+      </Item3>
+      <Item4>
+        <Expression Value="FHistory"/>
+      </Item4>
+    </Watches>
+  </Debugging>
+</CONFIG>
